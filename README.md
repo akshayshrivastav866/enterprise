@@ -1,2 +1,0 @@
-# enterprise
-Enterprise Solution Example
